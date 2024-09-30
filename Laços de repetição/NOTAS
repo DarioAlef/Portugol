@@ -1,0 +1,3 @@
+while: só executará se a condição for verdadeira
+do-while: executará pelo menos uma vez
+for: quantidade definida
