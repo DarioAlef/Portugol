@@ -1,6 +1,6 @@
 programa {
   funcao inicio() {
-    //Q.15 - Imprima os 20 primeiros termos da sequência de Fibonacci
+    //Q.15 - Imprima os 20 primeiros termos da sequÃªncia de Fibonacci
 
     inteiro total_termos = 21
     inteiro termo_1 = 0
